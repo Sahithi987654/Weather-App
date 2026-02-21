@@ -16,7 +16,7 @@ This is a simple Weather App that allows users to check the current weather cond
 ## 📦 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Sahithi987654/Weather-App.git
    ```
 2. Navigate to the project directory:
    ```bash
